@@ -1,3 +1,5 @@
+_(Deprecated)_
+
 Hitchwiki Unified login for WP
 ==============================
 
